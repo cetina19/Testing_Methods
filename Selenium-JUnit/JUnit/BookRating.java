@@ -1,8 +1,3 @@
-/* @Author
- *  Name: Alper Cetin
- *  Email: alper8540@gmail.com
-*/
-
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;

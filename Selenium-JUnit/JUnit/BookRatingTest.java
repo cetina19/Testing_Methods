@@ -1,3 +1,8 @@
+/* @Author
+ *  Name: Alper Cetin
+ *  Email: alper8540@gmail.com
+*/
+
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
