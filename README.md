@@ -2,3 +2,4 @@
 * JUnit
 * Selenium
 * BDD In Python
+* Cypress
